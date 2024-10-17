@@ -1,0 +1,6 @@
+CompileFlags:
+  Add:
+    - "--include-directory=/home/alvaro/github.com/cmatlab/some/.pixi/envs/build/include/opencv4"
+Diagnostics:
+  MissingIncludes: Strict
+  UnusedIncludes: None

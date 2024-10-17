@@ -1,1 +1,3 @@
 * text=auto eol=lf
+# GitHub syntax highlighting
+pixi.lock linguist-language=YAML linguist-generated=true
