@@ -1,3 +1,6 @@
+# Language Servers
+.clangd
+
 # Prerequisites
 *.d
 
